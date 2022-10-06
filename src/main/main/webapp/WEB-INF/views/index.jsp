@@ -27,5 +27,7 @@
 	<hr />
 	<h2>여섯번째 bbs</h2>
 	<a href="${pageContext.request.contextPath}/bbs6/login">이동</a>
+	
+	<h1>수정 111</h1>
 </body>
 </html>
